@@ -8,26 +8,14 @@ $personal_projects = [
   */
   [
     "title" => "Hub Contabil (Desenvolvimento)",
-    "description" => "Descrição do projeto pessoal",
-    "technologies" => ["PHP", "Laravel", "Vue.js"],
+    "description" => "Em breve atualizações futuras",
+    "technologies" => ["PHP", "Laravel", "Livewire", "PostgreSQL"],
     // "github_url" => "https://github.com/VictorIshizuka/projeto",
     "live_url" => null,
     "image" => null,
     "highlights" => [
-      "Feature 1",
-      "Feature 2"
+      "Feature 1 ( em breve)",
+      // "Feature 2"
     ]
   ],
-  [
-    "title" => "Nome do Projeto",
-    "description" => "Descrição do projeto pessoal",
-    "technologies" => ["PHP", "Laravel", "Vue.js"],
-    // "github_url" => "https://github.com/VictorIshizuka/projeto",
-    "live_url" => null,
-    "image" => null,
-    "highlights" => [
-      "Feature 1",
-      "Feature 2"
-    ]
-  ]
 ];

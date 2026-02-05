@@ -4,8 +4,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu Portfolio</title>
+
+  <title>Victor Rosário Ishizuka | Desenvolvedor Full Stack</title>
+
+  <!-- Meta Tags SEO -->
+  <meta name="description" content="Portfólio de Victor Rosário Ishizuka - Desenvolvedor Full Stack especializado em PHP, Laravel e desenvolvimento de sistemas escaláveis.">
+  <meta name="keywords" content="desenvolvedor, full stack, PHP, Laravel, portfolio">
+  <meta name="author" content="Victor Rosário Ishizuka">
+
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+
+  <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Asap:wght@700&family=Inconsolata:wght@400;700&family=Maven+Pro:wght@400&display=swap" rel="stylesheet">
