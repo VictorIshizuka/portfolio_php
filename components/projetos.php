@@ -5,7 +5,7 @@ require_once __DIR__ . "/../data/experiencias-profissionais.php";
 require_once __DIR__ . "/../data/hard-skills.php";
 
 // Função auxiliar para renderizar tags de tecnologias
-function renderTechTags($technologies)
+function renderTechTags($technologies, $colors)
 {
 
   $html = '';
@@ -87,7 +87,7 @@ function renderTechTags($technologies)
 
           <!-- Tecnologias -->
           <div class="flex flex-wrap gap-2 pt-4 border-t border-slate-700">
-            <?= renderTechTags($project['technologies']) ?>
+            <?= renderTechTags($project['technologies'], $colors) ?>
           </div>
 
         </div>
@@ -160,7 +160,7 @@ function renderTechTags($technologies)
 
             <!-- Tecnologias -->
             <div class="flex flex-wrap gap-2 mb-4 pt-4 border-t border-slate-700">
-              <?= renderTechTags($project['technologies']) ?>
+              <?= renderTechTags($project['technologies'], $colors) ?>
             </div>
 
             <!-- Links -->

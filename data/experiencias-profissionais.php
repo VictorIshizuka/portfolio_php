@@ -48,7 +48,7 @@ $professional_projects = [
 
   [
     "title" => "CIFA Plus - Sistema ERP Financeiro",
-    "company" => "Facili=e Sistemas",
+    "company" => "Facilie Sistemas",
     "period" => "2024",
     "description" => "Projeto que simula um ERP financeiro, no qual atuei no desenvolvimento do frontend, focando na usabilidade do usuário, organização de fluxos de entrada e navegação.",
     "role" => "Desenvolvedor Frontend",

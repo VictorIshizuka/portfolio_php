@@ -7,11 +7,14 @@ $photo_url = "/images/profile.png";
 $technologies = [
   ["name" => "GitHub", "color" => "bg-gray-800 text-white"],
   ["name" => "PHP", "color" => "bg-indigo-600 text-white"],
-  ["name" => "CSS", "color" => "bg-blue-500 text-white"],
-  ["name" => "HTML", "color" => "bg-orange-600 text-white"],
+  ["name" => "React", "color" => "bg-cyan-500 text-black"],
+  ["name" => "TypeScript", "color" => "bg-blue-600 text-white"],
   ["name" => "JavaScript", "color" => "bg-yellow-400 text-black"],
   ["name" => "Docker", "color" => "bg-blue-600 text-white"],
-  ["name" => "Laravel", "color" => "bg-red-600 text-white"]
+  ["name" => "Laravel", "color" => "bg-red-600 text-white"],
+  ["name" => "CodeIgniter", "color" => "bg-orange-700 text-white"],
+  ["name" => "MySQL", "color" => "bg-blue-700 text-white"],
+  ["name" => "PostgreSQL", "color" => "bg-blue-800 text-white"]
 ];
 
 $description = [
