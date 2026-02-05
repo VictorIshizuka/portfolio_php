@@ -15,7 +15,7 @@ $technologies = [
 ];
 
 $description = [
-  "Desenvolvedor focado em criar soluções práticas e funcionais. Experiência com desenvolvimento de ERPs, integrações de APIs e sistemas escaláveis usando PHP e Laravel."
+  "Desenvolvedor Full Stack em constante evolução, focado em construir soluções funcionais que resolvem problemas reais. Tenho experiência prática na manutenção de ERPs, integração de APIs e arquitetura em camadas utilizando PHP (Laravel/CodeIgniter) e Node.js. Acredito que um código bem estruturado e o aprendizado contínuo são as chaves para sistemas escaláveis."
 ];
 
 ?>
@@ -23,7 +23,7 @@ $description = [
 <header class="mx-auto max-w-screen-lg bg-gradient-to-br from-slate-800 to-slate-900 px-6 py-12 flex items-center justify-center flex-col gap-6 rounded-lg shadow-2xl">
 
   <!-- Foto redonda -->
-  <div class="w-35 h-35 rounded-full overflow-hidden border-4 border-white shadow-lg">
+  <div class="w-32 h-32 rounded-full overflow-hidden border-4 border-white shadow-lg">
     <img src="<?= $photo_url ?>" alt="Victor Rosário Ishizuka" class="w-full h-full object-top object-cover">
   </div>
 

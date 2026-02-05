@@ -1,7 +1,7 @@
 <?php
 
-require_once __DIR__ . "/../data/experiencias-profissionais.php";
 require_once __DIR__ . "/../data/projetos-pessoais.php";
+require_once __DIR__ . "/../data/experiencias-profissionais.php";
 require_once __DIR__ . "/../data/hard-skills.php";
 
 // Função auxiliar para renderizar tags de tecnologias
