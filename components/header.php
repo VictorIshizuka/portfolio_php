@@ -2,10 +2,10 @@
 
 $cargo_title = "Desenvolvedor Full Stack";
 $subtitle_name = 'echo "Hello World!" Meu nome é Victor Rosário Ishizuka e sou';
-$photo_url = "/images/profile.png";
+$photo_url = "/assets/images/profile.png";
 
 $technologies = [
-  ["name" => "GitHub", "color" => "bg-gray-800 text-white"],
+  // ["name" => "GitHub", "color" => "bg-gray-800 text-white"],
   ["name" => "PHP", "color" => "bg-indigo-600 text-white"],
   ["name" => "React", "color" => "bg-cyan-500 text-black"],
   ["name" => "TypeScript", "color" => "bg-blue-600 text-white"],
@@ -23,7 +23,7 @@ $description = [
 
 ?>
 
-<header class="mx-auto max-w-screen-lg bg-gradient-to-br from-slate-800 to-slate-900 px-6 py-12 flex items-center justify-center flex-col gap-6 rounded-lg shadow-2xl">
+<header class="mx-auto max-w-screen-lg bg-gradient-to-br from-slate-800 to-slate-900 px-6 py-12 flex items-center justify-center flex-col gap-6 rounded-lg shadow-2xl mt-4">
 
   <!-- Foto redonda -->
   <div class="w-32 h-32 rounded-full overflow-hidden border-4 border-white shadow-lg">
@@ -53,3 +53,5 @@ $description = [
       </span>
     <?php endforeach ?>
   </div>
+
+</header>

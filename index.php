@@ -31,6 +31,7 @@
       <?php include('./components/projetos.php'); ?>
     </section>
   </main>
+  <?php include('./components/footer.php'); ?>
 </body>
 
 </html>
