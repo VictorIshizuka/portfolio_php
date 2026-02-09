@@ -1,4 +1,6 @@
 # 💼 Portfólio - Victor Rosário Ishizuka
+<img width="1859" height="601" alt="image" src="https://github.com/user-attachments/assets/86053095-4a0c-4c95-a0b8-d4aefd8fadf6" />
+Site: https://portfolio-victor-ishizuka.wuaze.com
 
 Portfólio pessoal simples e profissional desenvolvido com PHP puro e Tailwind CSS, showcasing projetos e experiências como Desenvolvedor Full Stack.
 
